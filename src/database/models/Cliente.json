@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Daniela Mejia",
+    "telefono": "+504 5623-8956",
+    "correo": "dania1@example.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Kevin Herrera",
+    "telefono": "+504 3325-5689",
+    "correo": "Kevin20@gmail.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Aracely Molina",
+    "telefono": "+504 8956-2356",
+    "correo": "ara23@gmail.com"
+  }
+]
