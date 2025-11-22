@@ -18,7 +18,7 @@ import sequelize from './database/Conection/database.js';
 const corsOptions = {
     origin: "https://patronato-frontend.vercel.app/",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allowedHearders: ["Content-Type"],
+     allowedHeaders: ["Content-Type"],
     credentials: true,
 
 };
