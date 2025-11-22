@@ -11,7 +11,7 @@ import reportesRoutes from './routes/reportesRoutes.js';
 import cors from 'cors';
 const app = express();
 const PORT = process.env.PORT || 3001;
-import sequelize from './database/Conection/database.js';
+import sequelize from './database/Conection/database.js';   
 
 
 //configuracion cors

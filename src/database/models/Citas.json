@@ -1,23 +1,9 @@
 [
   {
     "id": 1,
-    "nombre": "Daniela Flores",
-    "fecha": "2025-09-26",
-    "hora": "07:54",
-    "notas": "Hola"
-  },
-  {
-    "id": 2,
-    "nombre": "Kevin Herrera",
-    "fecha": "2025-09-25",
-    "hora": "09:30",
-    "notas": "Visitar terreno"
-  },
-  {
-    "id": 3,
-    "nombre": "Aracely Molina",
-    "fecha": "2025-09-27",
-    "hora": "00:00",
-    "notas": "Hola"
+    "nombre": "Francisca Perdomo",
+    "fecha": "2025-11-18",
+    "hora": "14:50",
+    "notas": "ver terreno"
   }
 ]
